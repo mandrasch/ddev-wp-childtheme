@@ -1,0 +1,16 @@
+/*
+Theme Name:  My child theme
+Theme URI:  https://example.com
+Description:  Just a child theme example
+Author:  Child Themer
+Textdomain:  twentytwentytwo-child
+Author URI:  https://example.com
+Template:  twentytwentytwo
+Version:  1.0
+License:  GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html                 
+*/
+
+body{
+    background-color: rgb(255, 251, 196) !important;
+}

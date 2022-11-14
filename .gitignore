@@ -1,0 +1,30 @@
+# Ignore all ...
+/*
+
+# ... but track specific files / folders:
+
+# General files
+!.gitignore
+!/README.md
+!/LICENSE
+!/.vscode/
+!/.vscode/*
+!/.editorconfig
+!/.prettierrc
+
+# DDEV config
+!/.ddev
+/.ddev/*
+!/.ddev/config.yaml
+# 'ddev pull' provider script (advanced)
+!/.ddev/providers
+/.ddev/providers/*
+!/.ddev/providers/ssh.yaml
+!/.ddev/providers/backup.yaml
+
+# Child theme:
+!/wp-content
+/wp-content/*
+!/wp-content/themes
+/wp-content/themes/*
+!/wp-content/themes/my-child-theme
