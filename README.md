@@ -1,4 +1,5 @@
 # ddev-wp-childtheme
+
 Repository for really simple and minimalistic child theme development.
 
 ## Develop locally
@@ -9,8 +10,9 @@ Repository for really simple and minimalistic child theme development.
 1. Run `ddev start` inside the cloned folder
 1. Run `ddev wp core download`
 1. Run `ddev launch` and finish installation
-1. Activate the child theme (`ddev wp theme activate my-childtheme`)
+1. Activate the child theme (`ddev wp theme activate my-child-theme`)
 
+Have fun developing!
 
 ## Deploy it
 
@@ -18,11 +20,8 @@ Repository for really simple and minimalistic child theme development.
 1. Install plugin [SayHelloGmbH/git-installer](https://github.com/SayHelloGmbH/git-installer)
 1. Use the following configuration:
 
-
-
+TODO: Add screenshots for subfolder install of theme
 
 ## Advanced usage: Pull live site data
 
-
-
-See my DDEV lab... 
+If you want to develop with live data, see: https://my-ddev-lab.mandrasch.eu/tutorials/cms-and-frameworks/wordpress.html#pulling-wordpress
