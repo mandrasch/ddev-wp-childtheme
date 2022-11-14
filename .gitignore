@@ -9,6 +9,8 @@
 !/LICENSE
 !/.vscode/
 !/.vscode/*
+!/.screenshots/
+!/.screenshots/*
 !/.editorconfig
 !/.prettierrc
 

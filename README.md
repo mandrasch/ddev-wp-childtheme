@@ -16,11 +16,16 @@ Have fun developing!
 
 ## Deploy it
 
-1. Install a WordPress (live site)
+1. Install a WordPress live site
 1. Install plugin [SayHelloGmbH/git-installer](https://github.com/SayHelloGmbH/git-installer)
-1. Use the following configuration:
+1. Use the following configuration with your values:
 
-TODO: Add screenshots for subfolder install of theme
+![Screenshot of git installer - add git repository](.screenshots/screenshot1.png)
+![Screenshot of git installer - insert repository url](.screenshots/screenshot2.png)
+![Screenshot of git installer - add path to subfolder wp-content/themes/my-child-theme](.screenshots/screenshot3.png)
+![Screenshot of git installer - added git repository](.screenshots/screenshot4.png)
+
+Please consider sponsoring the development of git installer: https://github.com/sponsors/SayHelloGmbH
 
 ## Advanced usage: Pull live site data
 
